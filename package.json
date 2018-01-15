@@ -4,13 +4,13 @@
   "description": "sublevels implemented using leveldowns",
   "main": "index.js",
   "dependencies": {
-    "abstract-leveldown": "^2.4.1",
+    "encoding-down": "github:martinheidegger/encoding-down#57036fe836b98d4739d1ac0de653a3eeee8c7f88",
     "level-option-wrap": "^1.1.0",
-    "levelup": "^1.2.1"
+    "levelup": "^2.0.1"
   },
   "devDependencies": {
     "memdown": "^1.1.0",
-    "standard": "^5.3.1",
+    "standard": "^10.0.3",
     "tape": "^4.2.2"
   },
   "repository": {
